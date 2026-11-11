@@ -1,0 +1,10 @@
+# Python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+# Large raw sensor logs (keep summaries in analysis/)
+*.raw
+# OS / editors
+.DS_Store
+Thumbs.db
+~$*
